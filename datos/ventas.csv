@@ -1,0 +1,9 @@
+id_venta,fecha,producto,ciudad,cantidad,precio_unitario
+1,2026-09-01,Laptop,Cali,2,2500000
+2,2026-09-01,Mouse,Bogotá,5,80000
+3,2026-09-02,Teclado,Medellín,3,150000
+4,2026-09-02,Monitor,Cali,2,900000
+5,2026-09-03,Laptop,Barranquilla,1,2500000
+6,2026-09-03,Mouse,Cali,10,80000
+7,2026-09-04,Monitor,Bogotá,4,900000
+8,2026-09-05,Teclado,Cali,6,150000
